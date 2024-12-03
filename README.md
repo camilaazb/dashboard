@@ -1,6 +1,9 @@
 # Dashboard
-Recopilación de los trabajos de la clase de Herramientas cuantitativas:
+
+Se presentan 2 Dashboard:
+
+1. **Recopilación de los trabajos de la clase de Herramientas cuantitativas**:
 https://camilaazb.github.io/dashboard/clase.html
 
-Dashboard sobre Población Adulto Mayor en Lima:
+2: **Dashboard sobre Población Adulto Mayor en Lima**:
 https://camilaazb.github.io/dashboard/Dashboard-PAM.html 
